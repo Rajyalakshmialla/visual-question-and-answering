@@ -1,0 +1,23 @@
+# Core ML & Deep Learning
+torch==2.2.0
+torchvision==0.17.0
+numpy==1.26.0
+
+# Computer Vision & Image Processing
+opencv-python==4.6.0.66
+Pillow==10.0.1
+
+# OCR & Text Processing
+pytesseract==0.3.10
+easyocr==1.7.0
+
+# Graph Processing
+networkx==3.2
+
+# NLP & LLM
+transformers==4.35.2
+tokenizers==0.15.2
+sentencepiece==0.2.1
+
+# Utilities
+gradio==3.50.0
